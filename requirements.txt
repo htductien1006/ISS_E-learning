@@ -1,0 +1,14 @@
+asgiref==3.7.2
+beautifulsoup4==4.12.2
+cffi==1.16.0
+crispy-bootstrap3==2022.1
+cryptography==41.0.7
+Django==5.0
+django-bootstrap3==23.4
+django-crispy-forms==2.1
+django-registration-redux==2.13
+oracledb==1.4.2
+pycparser==2.21
+soupsieve==2.5
+sqlparse==0.4.4
+tzdata==2023.3
